@@ -1,0 +1,16 @@
+{
+  "name": "Beacot",
+  "symbol": "BEACOT",
+  "description": "Beacot is the utility token powering Beacot.com\u2014a teacher-matching platform like Preply and Superprof. Use BEACOT to book lessons, tip tutors, and unlock premium teaching tools.",
+  "image": "https://beacot.com/assets/logo-DezB5Oob.svg",
+  "external_url": "https://www.beacot.com",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://beacot.com/assets/logo-DezB5Oob.svg",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
+}
